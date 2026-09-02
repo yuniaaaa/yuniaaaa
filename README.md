@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yuniaaaa/yuniaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 1. ГЛАВНЫЙ БАННЕР -->
+<!-- Сюда отлично подойдет любая эстетичная горизонтальная картинка или гифка -->
+<img src="https://giphy.com" width="100%" alt="Header">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ЭСТЕТИЧНЫЙ РАЗДЕЛИТЕЛЬ -->
+✧ ₊ ˚ 🏹 ˚ ₊ ✧
+
+<br>
+
+<!-- 2. БЛОК С СОЦСЕТЯМИ (МИНИМАЛИСТИЧНЫЕ ИКОНКИ) -->
+<!-- Замените ССЫЛКА на ваши реальные профили. Если какая-то соцсеть не нужна — просто сотрите её строчку -->
+[![Steam](https://shields.io)](ССЫЛКА)
+[![Telegram](https://shields.io)](ССЫЛКА)
+[![Spotify](https://shields.io)](ССЫЛКА)
+[![Pinterest](https://shields.io)](ССЫЛКА)
+
+<br>
+
+<!-- 3. ОСНОВНАЯ ИНФОРМАЦИЯ -->
+## ─── ⋆🌟⋆ ABOUT ME ───
+
+` 🤍 имя/ник ` ✧ ` 🎂 age ` ✧ ` 🔮 mbti / интроверт ` ✧ ` 🐾 animal lover `
+
+<br>
+
+> Здесь можно написать одну короткую, но важную строчку о себе, вашем настроении или жизненное кредо.
+
+<br>
+
+─── ⋆🪐⋆ ───
+
+<br>
+
+<!-- 4. ИГРЫ И УВЛЕЧЕНИЯ -->
+### 🎮 FAVORITE GAMES
+` Pony Town ` • ` Genshin Impact ` • ` Honkai: Star Rail ` • ` Minecraft ` • ` Stardew Valley `
+
+<br>
+
+<!-- 5. МУЗЫКАЛЬНЫЙ БЛОК -->
+### 🎧 ON MY PLAYLIST
+` Lana Del Rey ` • ` Cigarettes After Sex ` • ` The Neighbourhood ` • ` Arctic Monkeys `
+
+<br>
+
+─── ⋆🕯️⋆ ───
+
+<br>
+
+<!-- 6. КРАСИВАЯ ЦИТАТА И КАОМОДЗИ -->
+### ૮꒰ ˶• ✍︎ •˶꒱ა ♡
+*« Текст вашей любимой цитаты, строчки из песни или просто милая фраза »*
+
+<br>
+
+<!-- 7. НЕБОЛЬШАЯ ИЛЛЮСТРАЦИЯ / ПИКСЕЛЬ-АРТ В КОНЦЕ -->
+<img src="https://giphy.com" width="35%">
+
+</div>
