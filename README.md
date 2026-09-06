@@ -27,8 +27,8 @@ ___
  <p align="left"</p>
 ִ🪽་༘࿐𝄞𝄢℘〖𝐌𝐔𝐒𝐈𝐂𝐒͇〗: 𝗣𝗶𝗻𝗸𝗣𝗮𝗻𝘁𝗵𝗲𝗿𝗲𝘀𝘀, 𝗕𝗿𝗶𝘁𝗻𝗲𝘆 𝗦𝗽𝗲𝗮𝗿𝘀, 𝗞𝗘𝗦𝗛𝗔, 𝗟𝗮𝗱𝘆 𝗚𝗮𝗴𝗮, 𝗖𝗢𝗥𝗧𝗜𝗦, 𝗔𝗧𝗘𝗘𝗭, 𝗙𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝘀 𝗗.𝗖, 𝗮𝗻𝗱 𝗺𝗮𝗻𝘆 𝗼𝘁𝗵𝗲𝗿𝘀. ૮₍ ´ ꒳ `₎ა
 ㅤㅤㅤ
-<img width="1200" height="414" alt="image" src="https://github.com/user-attachments/assets/cc8416a6-ec3b-449a-8e36-78bb85cc2374" />
 
+   <img width="1200" height="414" alt="image" src="https://github.com/user-attachments/assets/cc8416a6-ec3b-449a-8e36-78bb85cc2374" />
 
 ___
 <p align="middle"</p>
