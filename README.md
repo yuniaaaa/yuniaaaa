@@ -7,7 +7,8 @@
  <a href="https://discord.com/users/335102532214980619"> 
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/25bd7aaf-5651-44de-bebe-134172c7ee11" />
    <a href="https://evilyuniaa.carrd.co/">  
-   <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9d31029f-213b-4618-8c8e-270881595005" />
+  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/4988313f-b80b-44ff-8eff-2a17cd2743a5" />
+
 <p align="center"</p>
  ݁ ˖ ────── ☾ ────── ˖ ݁
 
