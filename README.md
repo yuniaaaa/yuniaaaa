@@ -37,6 +37,7 @@ P.S Я открыта к общению и с радостью могу подд
 ㅤ
   ㅤ
   ㅤㅤ
+&nbsp;
 <img  width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fec40d14-633f-472a-9a05-021fa37ab14a" />
 
 
