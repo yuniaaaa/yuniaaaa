@@ -3,9 +3,9 @@
 ˖  ────── ✦ ────── ˖
   <p align="center"</p>
     <a href="https://t.me/yaunyaa">
-  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/27352743-16e7-46f1-929a-48e01f165259" /> 
+  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/72c600d9-b8d6-49e6-b244-a247a2a0ff0e" />
  <a href="https://discord.com/users/335102532214980619"> 
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/e5657620-5649-4884-8e8b-04989e610f43" />
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/25bd7aaf-5651-44de-bebe-134172c7ee11" />
    <a href="https://evilyuniaa.carrd.co/">  
    <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9d31029f-213b-4618-8c8e-270881595005" />
 <p align="center"</p>
