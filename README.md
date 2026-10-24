@@ -1,19 +1,19 @@
 <p align="center">────── ✦ ────── ˖</p>
 <p align="center">
-  🐾 <img src="https://counter-api.com" alt="counter" style="vertical-align: middle;" />
+  🐾 <img src="https://komarev.com/ghpvc/?username=твой-никнейм&color=blueviolet&style=flat" alt="counter" style="vertical-align: middle;" />
 </p>
 <p align="center">
   <a href="https://t.me">
-    <img width="90" height="90" alt="image" src="https://github.com" />
+    <img width="90" height="90" alt="Telegram" src="https://github.com/твой-никнейм/твой-никнейм/raw/main/твой-файл-иконки.png" />
   </a>
   <a href="https://discord.com"> 
-    <img width="90" height="90" alt="image" src="https://github.com" />
+    <img width="90" height="90" alt="Discord" src="https://github.com/твой-никнейм/твой-никнейм/raw/main/твой-файл-иконки.png" />
   </a>
   <a href="https://carrd.co">  
-    <img width="90" height="90" alt="image" src="https://github.com" />
+    <img width="90" height="90" alt="Carrd" src="https://github.com/твой-никнейм/твой-никнейм/raw/main/твой-файл-иконки.png" />
   </a>
   <a href="https://steamcommunity.com">  
-    <img width="90" height="90" alt="image" src="https://pinimg.com" />
+    <img width="90" height="90" alt="Steam" src="https://github.com/твой-никнейм/твой-никнейм/raw/main/твой-файл-иконки.png" />
   </a>
 </p>
 <p align="center">݁ ˖ ────── ☾ ────── ˖ ݁</p>
