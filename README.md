@@ -1,6 +1,6 @@
 <p align="center">────── ✦ ────── ˖</p>
 <p align="center">
-  <img src="https://shields.io" alt="views" />
+  🐾 <img src="https://counter-api.com" alt="counter" style="vertical-align: middle;" />
 </p>
 <p align="center">
   <a href="https://t.me">
