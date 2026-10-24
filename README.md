@@ -1,6 +1,6 @@
 <p align="center">────── ✦ ────── ˖</p>
 <p align="center">
-  🐾 <img src="https://komarev.com/ghpvc/?username=yuniaaaa&color=blueviolet&style=flat" alt="Profile Views" style="vertical-align: middle;" />
+  🐾 <img src="https://visitor-badge.laobi.icu/badge?page_id=yuniaaaa.yuniaaaa&left_color=gray&right_color=blueviolet" alt="Profile Views" style="vertical-align: middle;" />
 </p>
 <p align="center">݁ ˖ ────── ☾ ────── ˖ ݁</p>
 
