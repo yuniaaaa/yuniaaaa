@@ -1,3 +1,23 @@
+<p align="center">────── ✦ ────── ˖</p>
+<p align="center">
+  <img src="https://seeyoufarm.com" alt="views" />
+</p>
+<p align="center">
+  <a href="https://t.me">
+    <img width="90" height="90" alt="image" src="https://github.com" />
+  </a>
+  <a href="https://discord.com"> 
+    <img width="90" height="90" alt="image" src="https://github.com" />
+  </a>
+  <a href="https://carrd.co">  
+    <img width="90" height="90" alt="image" src="https://github.com" />
+  </a>
+  <a href="https://steamcommunity.com">  
+    <img width="90" height="90" alt="image" src="https://pinimg.com" />
+  </a>
+</p>
+<p align="center">݁ ˖ ────── ☾ ────── ˖ ݁</p>
+
 <img width="1200" height="398" alt="image" src="https://github.com/user-attachments/assets/2ba16bd2-0c32-437a-a0dd-ab99cc068828" />
 <p align="center"</p>
 ˖  ────── ✦ ────── ˖
