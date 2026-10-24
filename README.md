@@ -8,6 +8,8 @@
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/25bd7aaf-5651-44de-bebe-134172c7ee11" />
    <a href="https://evilyuniaa.carrd.co/">  
   <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/4988313f-b80b-44ff-8eff-2a17cd2743a5" />
+   <a href="[https://steamcommunity.com](https://steamcommunity.com/profiles/76561198824929892/)">  
+  <img width="90" height="90" alt="image" src="https://i.pinimg.com/736x/9e/cd/89/9ecd89bcc35fe3666ca1c61e8b58814a.jpg" />
 <p align="center"</p>
  ݁ ˖ ────── ☾ ────── ˖ ݁
 
