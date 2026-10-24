@@ -1,6 +1,6 @@
 <p align="center">────── ✦ ────── ˖</p>
 <p align="center">
-  <img src="https://seeyoufarm.com" alt="views" />
+  <img src="https://shields.io" alt="views" />
 </p>
 <p align="center">
   <a href="https://t.me">
