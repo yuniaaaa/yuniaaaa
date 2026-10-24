@@ -1,8 +1,6 @@
-<p align="center">────── ✦ ────── ˖</p>
 <p align="center">
-  🐾 <img src="https://visitor-badge.laobi.icu/badge?page_id=yuniaaaa.yuniaaaa&left_color=gray&right_color=blueviolet" alt="Profile Views" style="vertical-align: middle;" />
+  🐾 <img src="https://visitor-badge.laobi.icu/badge?page_id=yuniaaaa.yuniaaaa&left_text=views&left_color=black&right_color=black" alt="Profile Views" style="vertical-align: middle;" />
 </p>
-<p align="center">݁ ˖ ────── ☾ ────── ˖ ݁</p>
 
 <img width="1200" height="398" alt="image" src="https://github.com/user-attachments/assets/2ba16bd2-0c32-437a-a0dd-ab99cc068828" />
 <p align="center"</p>
